@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Object_Detection_Images</folder>
+	<filename>DAAB53C8-E0FF-4312-B260-7271D9C2EC60.jpeg</filename>
+	<path>C:\Users\jft2456\Desktop\Self_Driving_Car\Object_Detection_Images\DAAB53C8-E0FF-4312-B260-7271D9C2EC60.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2008</xmin>
+			<ymin>1103</ymin>
+			<xmax>2416</xmax>
+			<ymax>1712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>682</xmin>
+			<ymin>428</ymin>
+			<xmax>907</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Object_Detection_Images</folder>
+	<filename>E6382D93-F986-475F-8802-D1D0388FCDB3.jpeg</filename>
+	<path>C:\Users\jft2456\Desktop\Self_Driving_Car\Object_Detection_Images\E6382D93-F986-475F-8802-D1D0388FCDB3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1758</xmin>
+			<ymin>1370</ymin>
+			<xmax>2558</xmax>
+			<ymax>2162</ymax>
+		</bndbox>
+	</object>
+</annotation>

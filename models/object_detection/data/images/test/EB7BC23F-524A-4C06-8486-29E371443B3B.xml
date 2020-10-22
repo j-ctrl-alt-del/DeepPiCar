@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Object_Detection_Images</folder>
+	<filename>EB7BC23F-524A-4C06-8486-29E371443B3B.jpeg</filename>
+	<path>C:\Users\jft2456\Desktop\Self_Driving_Car\Object_Detection_Images\EB7BC23F-524A-4C06-8486-29E371443B3B.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit 25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>528</ymin>
+			<xmax>765</xmax>
+			<ymax>1212</ymax>
+		</bndbox>
+	</object>
+</annotation>
