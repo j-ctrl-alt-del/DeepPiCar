@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Object_Detection_Images</folder>
+	<filename>30F4F55F-5992-429E-AE54-98F7F31D2861.jpeg</filename>
+	<path>C:\Users\jft2456\Desktop\Self_Driving_Car\Object_Detection_Images\30F4F55F-5992-429E-AE54-98F7F31D2861.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>978</ymin>
+			<xmax>840</xmax>
+			<ymax>1395</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2416</xmin>
+			<ymin>1120</ymin>
+			<xmax>2941</xmax>
+			<ymax>1928</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Object_Detection_Images</folder>
+	<filename>10A6E96F-B8AD-4975-85CE-95B8E946A92D.jpeg</filename>
+	<path>C:\Users\jft2456\Desktop\Self_Driving_Car\Object_Detection_Images\10A6E96F-B8AD-4975-85CE-95B8E946A92D.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1733</xmin>
+			<ymin>920</ymin>
+			<xmax>2024</xmax>
+			<ymax>1278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3566</xmin>
+			<ymin>1103</ymin>
+			<xmax>3983</xmax>
+			<ymax>1478</ymax>
+		</bndbox>
+	</object>
+</annotation>
