@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Object_Detection_Images</folder>
+	<filename>06FF340A-17EE-419B-86CD-FA2C817DD90A.jpeg</filename>
+	<path>C:\Users\jft2456\Desktop\Self_Driving_Car\Object_Detection_Images\06FF340A-17EE-419B-86CD-FA2C817DD90A.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3474</xmin>
+			<ymin>770</ymin>
+			<xmax>3783</xmax>
+			<ymax>1128</ymax>
+		</bndbox>
+	</object>
+</annotation>

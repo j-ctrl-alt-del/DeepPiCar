@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Object_Detection_Images</folder>
+	<filename>D54DD860-23BB-4364-AB40-823F758B97F8.jpeg</filename>
+	<path>C:\Users\jft2456\Desktop\Self_Driving_Car\Object_Detection_Images\D54DD860-23BB-4364-AB40-823F758B97F8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1883</xmin>
+			<ymin>1437</ymin>
+			<xmax>2116</xmax>
+			<ymax>1745</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Green Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3649</xmin>
+			<ymin>1162</ymin>
+			<xmax>4008</xmax>
+			<ymax>1628</ymax>
+		</bndbox>
+	</object>
+</annotation>
